@@ -118,7 +118,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
-        <img src="/php_projects/MyTodo/todo.PNG"  style="height: 40px;" alt="todos logo">
+        <img src="/todo.PNG"  style="height: 40px;" alt="todos logo">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -175,7 +175,7 @@
   <!-- Form -->
   <div class="container my-4 mx-auto" style="width: 1000px;">
     <h2 class="pb-1">Add a Todo</h2>
-    <form action="/php_projects/MyTodo/index.php" method="post">
+    <form action="/index.php" method="post">
       <div class="mb-3">
         <label for="title" class="form-label">Task Title</label>
         <input type="text" class="form-control" id="title" name="title">
@@ -265,7 +265,7 @@
 
         if (confirm("Are you sure yiu want to delete this task? ")) {
           console.log("YES");
-          window.location = `/php_projects/MyTodo/index.php?delete=${sno}`;
+          window.location = `/index.php?delete=${sno}`;
           //TODO : create a form and use post request to submit a form
 
         } else {
