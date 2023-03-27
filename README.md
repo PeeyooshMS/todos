@@ -20,7 +20,7 @@ CRUD stands for CREATE, READ, UPDATE and DELETE. This app can perform all this o
 7. Go to chrome/Firefox and run localhost/project_folder_name 
 
 ## GIF
-![Todos App Demo](https://github.com/PeeyooshMS/todos/blob/main/todosGIF.gif)
+![Todos App Demo](https://github.com/PeeyooshMS/todos/blob/main/todos.gif)
 
 ## Contribution
 If you would like to contribute to the Todos app, feel free to fork the repository and make any necessary changes. You can then submit a pull request with your changes for review.
