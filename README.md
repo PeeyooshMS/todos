@@ -13,7 +13,7 @@ CRUD stands for CREATE, READ, UPDATE and DELETE. This app can perform all this o
 ## Usage 
 1. Clone the project on your desktop.
 2. Extract files 
-3. Move files to **XAMPP > htdocs > project folder ** 
+3. Move files to **XAMPP > htdocs > project folder** 
 4. Open project folder in VSCode 
 5. Change the Path of **index.php** according to location in your desktop
 6. Run XAMPP control panel start Apache and Mysql
