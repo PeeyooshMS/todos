@@ -11,7 +11,7 @@ CRUD stands for CREATE, READ, UPDATE and DELETE. This app can perform all this o
 4. Datatables (https://datatables.net/) used for pagination
 
 ## GIF
-![Todos App Demo](https://github.com/)
+![Todos App Demo](https://github.com/PeeyooshMS/todos/blob/main/todosGIF.gif)
 
 ## Contribution
 If you would like to contribute to the Todos app, feel free to fork the repository and make any necessary changes. You can then submit a pull request with your changes for review.
